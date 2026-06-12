@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BridgeTimer.vcxproj" Id="bbdcfe71-c060-4783-bcb8-95daa022694d" />
+</Solution>
